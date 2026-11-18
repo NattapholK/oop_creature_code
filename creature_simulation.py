@@ -19,9 +19,7 @@ class Creature:
         return f"{self.name} (HP: {self.hp})"
 
     
-# ===============================
-# FlyingCreature Branch
-# ===============================
+
     
 # ===============================
 # FlyingCreature Branch
